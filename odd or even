@@ -1,0 +1,6 @@
+a=int(input('Enter the value:'))
+b=a%2
+if(b==0):
+    print("Given no is even")
+else:
+    print("Given no is odd")
