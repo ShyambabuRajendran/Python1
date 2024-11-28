@@ -1,3 +1,4 @@
+# write a code for pyramid
 for i in range (0,5+1): #column 2<=5
     for j in range (0,i+1): #row 2<=2
         print(j,"\t")
